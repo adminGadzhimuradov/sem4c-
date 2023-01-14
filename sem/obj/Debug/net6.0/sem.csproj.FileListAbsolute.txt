@@ -1,0 +1,15 @@
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\bin\Debug\net6.0\sem.exe
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\bin\Debug\net6.0\sem.deps.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\bin\Debug\net6.0\sem.runtimeconfig.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\bin\Debug\net6.0\sem.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\bin\Debug\net6.0\sem.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.csproj.AssemblyReference.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.AssemblyInfoInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.AssemblyInfo.cs
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.csproj.CoreCompileInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\refint\sem.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\sem.genruntimeconfig.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\sem\obj\Debug\net6.0\ref\sem.dll

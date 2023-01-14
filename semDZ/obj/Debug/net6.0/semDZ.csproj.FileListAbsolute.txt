@@ -1,0 +1,15 @@
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\bin\Debug\net6.0\semDZ.exe
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\bin\Debug\net6.0\semDZ.deps.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\bin\Debug\net6.0\semDZ.runtimeconfig.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\bin\Debug\net6.0\semDZ.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\bin\Debug\net6.0\semDZ.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.csproj.AssemblyReference.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.AssemblyInfoInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.AssemblyInfo.cs
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.csproj.CoreCompileInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\refint\semDZ.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\semDZ.genruntimeconfig.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\Сsem4\semDZ\obj\Debug\net6.0\ref\semDZ.dll
