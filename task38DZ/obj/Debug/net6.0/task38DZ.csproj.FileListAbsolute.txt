@@ -1,0 +1,15 @@
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\bin\Debug\net6.0\task38DZ.exe
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\bin\Debug\net6.0\task38DZ.deps.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\bin\Debug\net6.0\task38DZ.runtimeconfig.json
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\bin\Debug\net6.0\task38DZ.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\bin\Debug\net6.0\task38DZ.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.csproj.AssemblyReference.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.AssemblyInfoInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.AssemblyInfo.cs
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.csproj.CoreCompileInputs.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\refint\task38DZ.dll
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.pdb
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\task38DZ.genruntimeconfig.cache
+C:\Users\DEViCE_YIC\OneDrive\Рабочий стол\C#sem5\task38DZ\obj\Debug\net6.0\ref\task38DZ.dll
